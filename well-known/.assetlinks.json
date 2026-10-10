@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.tarekgamal363_source.twa",
+    "sha256_cert_fingerprints": ["AA:F0:3C:FC:A3:19:0C:E6:48:3D:65:A7:88:98:61:77:00:54:67:BC:D8:8B:EA:CA:31:0F:F5:81:06:49:5A:C1"]
+  }
+}]
